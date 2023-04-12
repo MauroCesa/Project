@@ -23,7 +23,6 @@ main{
 input{
     border: none;
     background-color: #f2f2f2;
-    margin-top: 15px;
     padding-right: 120px;
     padding-bottom: 20px;
     padding-top: 20px;
@@ -33,7 +32,6 @@ input{
 #botao{
     background-image: linear-gradient(to right, #2a957e, #0fa756);
     color: white;
-    margin-top: 15px;
     padding: 20px 130px;
     border: none;
 }
